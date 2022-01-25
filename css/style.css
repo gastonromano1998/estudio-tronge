@@ -42,7 +42,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #e52f3c;
+	color: #7F5539;
 }
 ul, ol {
 	list-style: none;
@@ -57,10 +57,14 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #1E7A46;
+	background: #7F5539;
 	margin-bottom: 20px;
 	border: 0;
 }
+
+/* IMAGEN ESTUDIO TRONGE */
+
+
 /* Navigation */
 #menu {
 	padding: 20px;
@@ -75,7 +79,7 @@ hr {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 32px;
 	font-weight: 700;
-	color: #734222;
+	color: #CEB085;
 	text-transform: uppercase;
 	letter-spacing: -1px;
 }
@@ -91,10 +95,10 @@ hr {
 	margin: 9px 20px 0 20px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #734222;
+	color: #CEB085;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #734222 !important;
+	color: #CEB085 !important;
 	background-color: transparent;
 }
 #menu .phone {
@@ -108,7 +112,7 @@ hr {
 #menu .phone span {
 	font-size: 14px;
 	display: block;
-	color: #734222;
+	color: #CEB085;
 }
 .navbar-toggle {
 	border-radius: 0;
@@ -118,7 +122,7 @@ hr {
 	border-color: #fff;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
-	background-color: #734222;
+	background-color: #CEB085;
 }
 .section-title {
 	margin-bottom: 70px;
@@ -133,7 +137,7 @@ hr {
 .section-title h2::after {
 	position: absolute;
 	content: "";
-	background-color: #e52f3c;
+	background-color: #7F5539;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -142,7 +146,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #e52f3c;
+	background-color: #7F5539;
 	padding: 14px 20px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -153,7 +157,7 @@ hr {
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
-	background-color: #734222;
+	background-color: #CEB085;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -208,7 +212,7 @@ header .intro-text {
 #get-touch {
 	padding: 40px 0 30px;
 	color: rgba(255,255,255,.7);
-	background: #734222;
+	background: #CEB085;
 }
 #get-touch h3 {
 	font-size: 24px;
@@ -222,7 +226,7 @@ header .intro-text {
 	border: 2px solid #fff;
 }
 #get-touch .btn-custom:hover {
-	color: #734222;
+	color: #CEB085;
 	background: #fff;
 	border: 2px solid #fff;
 }
@@ -244,7 +248,7 @@ header .intro-text {
 #about h2::after {
 	position: absolute;
 	content: "";
-	background-color: #e52f3c;
+	background-color: #7F5539;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
@@ -259,7 +263,7 @@ header .intro-text {
 #about .about-text li:before {
 	content: '\f00c';
 	font-family: 'FontAwesome';
-	color: #734222;
+	color: #CEB085;
 	font-size: 11px;
 	font-weight: 300;
 	padding-right: 8px;
@@ -383,7 +387,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
-	background-color: #734222;
+	background-color: #CEB085;
 	color: rgba(255,255,255,.65);
 }
 #contact .section-title {
@@ -411,7 +415,7 @@ header .intro-text {
 	font-weight: 600;
 }
 #contact .text-danger {
-	color: #cc0033;
+	color: #7F5539;
 	text-align: left;
 }
 #contact .btn-custom {
@@ -420,7 +424,7 @@ header .intro-text {
 	border: 2px solid #fff;
 }
 #contact .btn-custom:hover {
-	color: #734222;
+	color: #CEB085;
 	background: #fff;
 }
 label {
@@ -503,7 +507,7 @@ color: #777;
 	color: #1f386e;
 }
 #footer a:hover {
-	color: #e52f3c;
+	color: #7F5539;
 }
 
 @media (max-width: 768px) {
@@ -746,7 +750,7 @@ color: #777;
 }
 
 .form label span {
-    color: #DA1414;
+    color: #7F5539;
 }
 
 .form input,
